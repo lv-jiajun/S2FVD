@@ -1,0 +1,11 @@
+<collection shelf="New Arrivals">
+
+<testcase id="4" type="Source Code" status="Candidate" submissionDate="2005-10-21" author="SecureSoftware" numberOfFiles="1" testsuiteid="17">
+    <description><![CDATA[Miscalculated null termination occurs when the placement of a null character at
+the end of a buffer of characters (or string) is misplaced or omitted. (from TCCLASP-5_2_14_9)]]></description>
+    <file path="000/000/004/Miscalculated_null_termination.c" language="C" size="468" checksum="8bb66382fc751be505259593668886beb0eff30f">
+      <flaw line="6" name="CWE-170: Improper Null Termination"/>
+    </file>
+</testcase>
+
+</collection>
