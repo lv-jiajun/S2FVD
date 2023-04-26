@@ -1,0 +1,5 @@
+1#void function ( ) { char * data ; char dataBuffer [ 100 ] = "ls " ; if ( 1 ){ data = dataBuffer; } }#0
+2#void function ( ) { char * data ; char dataBuffer [ 100 ] = "ls " ; if ( 1 ){ data = dataBuffer; } }#0
+3#void function ( ) { char * data ; char dataBuffer [ 100 ] = "ls " ; if ( 1 ){ data = dataBuffer; } }#0
+4#void function ( ) { char * data ; char dataBuffer [ 100 ] = "ls " ; if ( 1 ){ data = dataBuffer; } }#0
+5#void function ( ) { char * data ; char dataBuffer [ 100 ] = "ls " ; if ( 1 ){ data = dataBuffer; } }#0
